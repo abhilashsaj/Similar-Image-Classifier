@@ -1,1 +1,1 @@
-"# Similar-Image-Classifier" 
+# Similar Image Classifier
